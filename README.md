@@ -8,12 +8,20 @@ looking to explore sales trends, customer behaviors, and business insights.
 ## Database Schema
 The dataset consists of seven interconnected tables:
 
------|
-|File Name	Description
-categories.csv	Defines the categories of the products.
-cities.csv	Contains city-level geographic data.
-countries.csv	Stores country-related metadata.
-customers.csv	Contains information about the customers who make purchases.
-employees.csv	Stores details of employees handling sales transactions.
-products.csv	Stores details about the products being sold.
-sales.csv	Contains transactional data for each sale.
+
+
+| File Name | Description|
+|---|---|
+| categories.csv	| Defines the categories of the products.|
+|cities.csv|	Contains city-level geographic data.|
+|countries.csv|	Stores country-related metadata.|
+|customers.csv |	Contains information about the customers who make purchases.|
+|employees.csv|	Stores details of employees handling sales transactions.|
+|products.csv|	Stores details about the products being sold.|
+|sales.csv	|Contains transactional data for each sale.Steady Customers  |
+
+
+
+
+
+
