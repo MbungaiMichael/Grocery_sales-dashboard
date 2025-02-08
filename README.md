@@ -27,17 +27,17 @@ The dataset consists of seven interconnected tables:
 - Understand the dataset, and proceed to analysis
 
 ## Questions which helped in carrying out analysis
-  -Which employees are generating the highest sales?
-  -Which products have the highest sales figures?
-  -What is the gender distribution among employees?
-  -How do sales compare across different product categories?
-  -Which customers are making the highest number of purchases?
-  -What is the total sales revenue generated during the specified period?
-  -How many unique customers made purchases during the specified period?
-  -How do sales figures vary across different cities?
-  -What are the sales trends over different time periods (year, quarter, month, and day)?
+- Which employees are generating the highest sales?
+- Which products have the highest sales figures?
+- What is the gender distribution among employees?
+- How do sales compare across different product categories?
+- Which customers are making the highest number of purchases?
+- What is the total sales revenue generated during the specified period?
+- How many unique customers made purchases during the specified period?
+- How do sales figures vary across different cities?
+- What are the sales trends over different time periods (year, quarter, month, and day)?
   
-[dashboard here](https://www.kaggle.com/datasets/andrexibiza/grocery-sales-dataset )🔗
+[dashboard here](https://github.com/MbungaiMichael/Grocery_sales-dashboard/blob/main/Grocery_Sales%20Dashboard.pdf)🔗
 
 
 
