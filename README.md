@@ -21,7 +21,7 @@ The dataset consists of seven interconnected tables:
 |sales.csv	|Contains transactional data for each sale.Steady Customers  |
 
 ## Procedure
-- Created a database and the tables using mysql database and insert the data throuh python.
+- Created a database [sql script](https://www.kaggle.com/datasets/andrexibiza/grocery-sales-dataset ) and the tables using mysql database and insert the data throuh python.
 - Clean the data and check for missing values
 - load into power bi
 - Understand the dataset, and proceed to analysis
