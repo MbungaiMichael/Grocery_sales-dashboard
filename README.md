@@ -8,7 +8,7 @@ looking to explore sales trends, customer behaviors, and business insights.
 ## Database Schema
 The dataset consists of seven interconnected tables:
 
-[download here](https://www.kaggle.com/datasets/andrexibiza/grocery-sales-dataset )🔗
+[data information here](https://www.kaggle.com/datasets/andrexibiza/grocery-sales-dataset )🔗
 
 | File Name | Description|
 |---|---|
